@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For KR1820VG1
+#######################################
+
+KR1820VG1	KEYWORD1
+begin	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+display	KEYWORD2
+noDisplay	KEYWORD2
+setCursor	KEYWORD2
+blink	KEYWORD2
+noBlink	KEYWORD2
+write	KEYWORD2
+print	KEYWORD2
+printTime	KEYWORD2
+printDigits	KEYWORD2
+setBrightness	KEYWORD2
+createChar	KEYWORD2
+command	KEYWORD2
+getCursor	KEYWORD2
